@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample suite">
+    <suite-files>
+        <suite-file path="packages.xml"></suite-file>
+        <suite-file path="methods.xml"></suite-file>
+        <suite-file path="sample.xml"></suite-file>
+        <suite-file path="suites.xml"></suite-file>
+    </suite-files>
+</suite>
